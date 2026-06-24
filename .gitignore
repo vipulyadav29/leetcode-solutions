@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.exe
+*.out
+*.class
+__pycache__/
+.vscode/
+
