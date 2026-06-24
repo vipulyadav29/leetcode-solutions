@@ -7,7 +7,7 @@ My collection of LeetCode solutions, notes, and progress.
 | # | Problem | Difficulty | Language | Solution | Notes |
 |---|---------|------------|----------|----------|-------|
 | 1 | Two Sum | Easy | C++ | [Solution](solutions/0001-two-sum.cpp) | [Notes](notes/0001-two-sum.md) |
-| 344 | Reverse String | Easy | C++ | [Solution](solutions/0344-reverse-string.cpp) | [Notes](notes/0344-reverse-string.md) |
+| 344 | Reverse String | Easy | Java | [Solution](solutions/0344-reverse-string.java) | [Notes](notes/0344-reverse-string.md) |
 
 ## Folder Structure
 
