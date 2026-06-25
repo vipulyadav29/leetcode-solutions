@@ -91,4 +91,12 @@ git push
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
