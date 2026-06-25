@@ -78,6 +78,7 @@ git push
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -86,6 +87,7 @@ git push
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -95,8 +97,26 @@ git push
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
