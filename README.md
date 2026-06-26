@@ -100,6 +100,7 @@ git push
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -131,4 +132,8 @@ git push
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
