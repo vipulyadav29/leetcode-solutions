@@ -76,6 +76,7 @@ git push
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ git push
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
