@@ -103,6 +103,7 @@ git push
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +135,7 @@ git push
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -144,4 +146,8 @@ git push
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
