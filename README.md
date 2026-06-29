@@ -102,6 +102,7 @@ git push
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,5 +150,6 @@ git push
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
