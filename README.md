@@ -74,6 +74,7 @@ git push
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -81,6 +82,7 @@ git push
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -102,6 +104,7 @@ git push
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
