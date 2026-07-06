@@ -59,6 +59,7 @@ git push
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -75,6 +76,7 @@ git push
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
