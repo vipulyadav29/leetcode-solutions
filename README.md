@@ -123,6 +123,7 @@ git push
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -180,8 +181,10 @@ git push
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
