@@ -95,6 +95,7 @@ git push
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -121,6 +122,7 @@ git push
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +176,12 @@ git push
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
