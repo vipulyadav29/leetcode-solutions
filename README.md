@@ -109,6 +109,7 @@ git push
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
