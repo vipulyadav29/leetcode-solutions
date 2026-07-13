@@ -181,6 +181,7 @@ git push
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -188,4 +189,16 @@ git push
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
