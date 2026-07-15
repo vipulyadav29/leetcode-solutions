@@ -163,6 +163,7 @@ git push
 | [0022-generate-parentheses](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -193,16 +194,19 @@ git push
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
