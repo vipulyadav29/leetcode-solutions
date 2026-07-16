@@ -69,6 +69,7 @@ git push
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -175,6 +176,7 @@ git push
 | [0039-combination-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +199,7 @@ git push
 | [0112-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +207,7 @@ git push
 | [0112-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +215,7 @@ git push
 | [0112-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
