@@ -68,6 +68,7 @@ git push
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0344-reverse-string) |
