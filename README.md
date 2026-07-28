@@ -145,6 +145,7 @@ git push
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -170,6 +171,7 @@ git push
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Combinatorics
 |  |
 | ------- |
@@ -222,6 +224,7 @@ git push
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,4 +243,13 @@ git push
 | [0102-binary-tree-level-order-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0112-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
