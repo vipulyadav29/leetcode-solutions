@@ -59,6 +59,7 @@ git push
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +120,7 @@ git push
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -132,6 +134,7 @@ git push
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
