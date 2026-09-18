@@ -97,6 +97,7 @@ git push
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -122,6 +123,7 @@ git push
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0040-combination-sum-ii) |
