@@ -107,6 +107,7 @@ git push
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -116,6 +117,7 @@ git push
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ git push
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
