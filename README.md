@@ -123,6 +123,7 @@ git push
 | [0007-reverse-integer](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0319-bulb-switcher](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -272,4 +273,8 @@ git push
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
