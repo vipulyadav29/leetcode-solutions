@@ -125,6 +125,7 @@ git push
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0672-bulb-switcher-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@ git push
 | ------- |
 | [0078-subsets](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0672-bulb-switcher-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +239,7 @@ git push
 | [0144-binary-tree-preorder-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0672-bulb-switcher-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
@@ -256,6 +259,7 @@ git push
 | [0102-binary-tree-level-order-traversal](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0112-path-sum) |
+| [0672-bulb-switcher-ii](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
