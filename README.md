@@ -141,6 +141,7 @@ git push
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -151,6 +152,7 @@ git push
 | [0018-4sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -189,6 +191,7 @@ git push
 | [0062-unique-paths](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Combinatorics
 |  |
@@ -280,6 +283,7 @@ git push
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Brainteaser
 |  |
 | ------- |
