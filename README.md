@@ -288,4 +288,8 @@ git push
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/vipulyadav29/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/vipulyadav29/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
